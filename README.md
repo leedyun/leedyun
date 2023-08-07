@@ -6,6 +6,7 @@
 ## 📗my study📗
 <p align="left">
  <a href="https://www.notion.so/decca1ed5c6b4923b8cae8e4f50cb2b6" target="_blank"><img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white"></a></p>
+ 공부한 기록들 정리하는 곳입니다
 
  
 ## 💌email💌
